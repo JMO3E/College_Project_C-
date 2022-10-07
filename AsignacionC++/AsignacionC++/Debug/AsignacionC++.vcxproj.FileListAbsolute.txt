@@ -1,0 +1,2 @@
+C:\Programming\Others\C++\AsignacionC++\AsignacionC++\Debug\AsignacionC++.exe
+C:\Programming\Others\C++\AsignacionC++\AsignacionC++\Debug\AsignacionC++.pdb

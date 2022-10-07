@@ -1,0 +1,3 @@
+﻿  AsignacionC++.cpp
+C:\Programming\Others\C++\AsignacionC++\AsignacionC++\CargarArchivos.cpp(128,13): warning C4101: '_input': unreferenced local variable
+  AsignacionC++.vcxproj -> C:\Programming\Others\C++\AsignacionC++\x64\Debug\AsignacionC++.exe
